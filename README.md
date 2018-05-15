@@ -5,10 +5,10 @@ Feggle is an old peggle clone I made not too long ago and decided to upload it.
 
 ## Requirements (pre-installed)
 
--pygame
--sys
--math
--time
--os
--random
+- pygame
+- sys
+- math
+- time
+- os
+- random
 
